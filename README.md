@@ -3,7 +3,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/frank-nunez-rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank-nunez-rodriguez" height="30" width="40" /></a>
-  <a href="mailto:fnrodriguez010687@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+  <a href="mailto:fnrodriguez010687@gmail.com">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail/default.svg" alt="Gmail" height="30" width="40" />
+</a>
 </p>
 
 ---
